@@ -1,5 +1,6 @@
 nginx
 docker.n8n.io/n8nio/n8n
+node:22-alpine
 
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
