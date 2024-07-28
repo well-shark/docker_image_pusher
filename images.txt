@@ -3,7 +3,7 @@
 node:18-alpine
 node:20-alpine
 #node:22-alpine
-
+openapitools/openapi-generator-cli
 
 
 #支持私库
