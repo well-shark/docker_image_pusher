@@ -4,7 +4,8 @@
 #node:20-alpine
 #node:22-alpine
 #openapitools/openapi-generator-cli
-mysql:5.6.50
+#mysql:5.6.50
+ubuntu:focal-20.04
 
 
 #支持私库
