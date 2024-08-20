@@ -6,8 +6,8 @@
 #openapitools/openapi-generator-cli
 #mysql:5.6.50
 #ubuntu:focal
-squidfunk/mkdocs-material:9.5.19
-
+#squidfunk/mkdocs-material:9.5.19
+jgraph/drawio
 
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
