@@ -19,7 +19,8 @@
 #gitlab/gitlab-ce
 #gitlab/gitlab-runner
 #matrixdotorg/synapse:latest
-vectorim/element-web:latest
+#vectorim/element-web:latest
+clickhouse/clickhouse-server:22.1.2.2
 
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
